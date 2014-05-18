@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Settle This</string>
+    <string name="action_settings">Settings</string>
+    <!-- activity names and descriptions -->
+    <string name="agility">Agility</string>
+    <string name="agility_description">Tap the screen as many times as you can, in the next ten seconds</string>
+    <string name="strength">Strength</string>
+    <string name="strength_description">Move your hand as fast as you can while holding your phone. Careful not to drop it!</string>
+    <string name="proximity">Proximity</string>
+    <string name="proximity_description">A random city will appear. Stand as close to it as you can! Works better in open space.</string>
+    <string name="intellect">Intellect</string>
+    <string name="intellect_description">Solve as many quizzes as you possibly can in 30 seconds!</string>
+    <string name="voice">Voice</string>
+    <string name="voice_description">Scream as loud as you can, for as long as you can! Not recommended in libraries! Or the cinema!</string>
+    <string name="reflexes">Reflexes</string>
+    <string name="reflexes_description">Click the icons that appear on the screen as quickly as you can!</string>
+    <string name="title_activity_reflexes">Reflexes</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <!-- utility strings -->
+    <string name="select_players">Select the number of players:</string>
+
+</resources>
